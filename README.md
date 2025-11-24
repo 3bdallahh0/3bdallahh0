@@ -1,7 +1,7 @@
 ## Hi, I'am Abdallah Mohamed 
+##I'm a C# Developer specializing in Web Applications, Windows Applications, and MySQL databases.
 
-<!--
-**3bdallahh0/3bdallahh0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
