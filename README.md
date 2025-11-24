@@ -1,4 +1,4 @@
-## Hi, I'm Abdallah Mohamed
+## Hi, I'm Abdallah Mohamed 👋
 
 ## Web Applications | MySQL | C# | Windows Applications
 
@@ -9,9 +9,9 @@
 
 I am a C# developer specializing in Web and Windows Applications.  
 
-I have hands-on experience building websites with ASP.NET MVC, C#, and MySQL Server, covering both frontend and backend development.  
+I have hands-on experience building websites with ASP.NET MVC, C#, and MySQL Server, covering both frontend and backend development, and creating responsive designs using Bootstrap 5.  
 
-Windows Applications created to provide practical solutions for real-world problems.  
+I also develop Windows Applications using WPF to provide practical solutions for real-world problems.  
 
 Skilled in delivering high-quality, maintainable, and efficient software solutions.  
 
@@ -21,6 +21,7 @@ Experience in the freelance market, dedicated to continuous learning, innovative
 
 Always eager to explore new technologies, improve skills, and create software that makes a difference.
 
+
 ## My Projects
 
 ## Languages
@@ -28,16 +29,24 @@ Always eager to explore new technologies, improve skills, and create software th
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)  
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 
+## Framework & Tools
+
+![Bootstrap 5](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
+
+## Technology & Libraries
+
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![ASP.NET MVC](https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=flat&logo=asp.net&logoColor=white)
+![Bootstrap 5](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+![WPF](https://img.shields.io/badge/WPF-512BD4?style=flat)
+![Windows Forms](https://img.shields.io/badge/Windows_Forms-0078D7?style=flat)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=flat)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Let's Code and Make an Impact 💻
