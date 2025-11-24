@@ -1,5 +1,9 @@
-## Hi, I'am Abdallah Mohamed 
-##I'm a C# Developer specializing in Web Applications, Windows Applications, and MySQL databases.
+# Hi, I'm Abdallah Mohamed
+
+## I'm a C# Developer specializing in Web Applications, Windows Applications, and MySQL databases.
+
+## Let's Connect
+[LinkedIn](https://www.linkedin.com/in/abdallah-mohamed-91b294263)
 
 
 
