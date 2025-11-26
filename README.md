@@ -24,12 +24,16 @@ Experience in the freelance market, dedicated to continuous learning, innovative
 
 Always eager to explore new technologies, improve skills, and create software that makes a difference.
 
-
 ## My Projects
 
-<a href="https://github.com/3bdallahh0/-My-DevWorks" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
-</a>
+[🔗 My DevWorks Repository](https://github.com/3bdallahh0/-My-DevWorks)
+[![My DevWorks](https://img.shields.io/badge/My_DevWorks-Repository-blue)](https://github.com/3bdallahh0/-My-DevWorks)
+> **My DevWorks Repository**  
+> رابط المشروع:  
+> https://github.com/3bdallahh0/-My-DevWorks
+>
+- 🚀 **My DevWorks Repository**  
+  https://github.com/3bdallahh0/-My-DevWorks
 
 ## Languages
 
