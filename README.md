@@ -26,9 +26,7 @@ Always eager to explore new technologies, improve skills, and create software th
 
 ## My Projects
 
-### 📁 My DevWorks Repository  
-🔗 https://github.com/3bdallahh0/-My-DevWorks
-
+[![My DevWorks](https://img.shields.io/badge/My_DevWorks-Repository-blue)](https://github.com/3bdallahh0/-My-DevWorks)
 
 
 ## Languages
