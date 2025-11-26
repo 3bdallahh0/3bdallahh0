@@ -27,7 +27,9 @@ Always eager to explore new technologies, improve skills, and create software th
 
 ## My Projects
 
-- [My DevWorks Repository](https://github.com/3bdallahh0/-My-DevWorks)
+<a href="https://github.com/3bdallahh0/-My-DevWorks" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+</a>
 
 ## Languages
 
