@@ -1,6 +1,6 @@
 ## Hi, I'm Abdallah Mohamed 👋
 
-## Web Applications | MySQL | C# | Windows Applications
+## .NET Developer | SQL Server | C#
 
 ## Let's Connect
 
