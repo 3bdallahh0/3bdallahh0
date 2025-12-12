@@ -27,6 +27,8 @@ Always eager to explore new technologies, improve skills, and create software th
 ## My Projects
 
 [![My DevWorks](https://img.shields.io/badge/🛠️_MyDevWorks-0A66C2)](https://github.com/3bdallahh0/-My-DevWorks)
+[![My DevWorks](https://img.shields.io/badge/🧩_MyDevWorks-0A66C2?style=for-the-badge)](https://github.com/3bdallahh0/-My-DevWorks)
+
 
 
 
