@@ -25,22 +25,7 @@ Experience in the freelance market, dedicated to continuous learning, innovative
 Always eager to explore new technologies, improve skills, and create software that makes a difference.
 
 ## My Projects
-
-[![My DevWorks](https://img.shields.io/badge/🐙_MyDevWorks-2F2F2F?style=for-the-badge)](https://github.com/3bdallahh0/-My-DevWorks)
-[![My DevWorks](https://img.shields.io/badge/-MyDevWorks-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=000000&link=https://github.com/3bdallahh0/-My-DevWorks&logoWidth=20&message=%20&label=%20&cacheSeconds=1&logoColor=white&colorA=000000&colorB=000000&logoColor=white&logoData=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTIwMCIgaGVpZ2h0PSI0MCIgdmlld0JveD0iMCAwIDEyMDAgNDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTAsMTAgQzMwMCwyMCA2MDAsMCA5MDAsMTAgQzExMDAsMTUgMTEyMCwyMCAxMjAwLDEwIEwxMjAwLDMwIEwwLDMwIFoiIGZpbGw9IiMwQTZGRkYiLz48L3N2Zz4=)]
-
-
-[![My DevWorks](https://img.shields.io/badge/-MyDevWorks-000000?style=for-the-badge&logo=github&labelColor=000000&color=000000&colorA=000000&colorB=000000&logoData=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTIwMCIgaGVpZ2h0PSI0MCIgdmlld0JveD0iMCAwIDEyMDAgNDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHJlY3Qgd2lkdGg9IjEyMDAiIGhlaWdodD0iNDAiIGZpbGw9IiMwMDAiLz48Y2lyY2xlIGN4PSI2MDAiIGN5PSIyMCIgcj0iNDAiIGZpbGw9InJnYmEoMCwyNTUsMjU1LDAuNikiIC8+PC9zdmc+)]
-
-
-[![My DevWorks](https://img.shields.io/badge/-MyDevWorks-000000?style=for-the-badge&logo=github&labelColor=000000&color=000000&logoWidth=20&colorA=000000&colorB=000000&logoData=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTIwMCIgaGVpZ2h0PSI0MCIgdmlld0JveD0iMCAwIDEyMDAgNDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGRlZnM+PGxpbmVhckdyYWRpZW50IGlkPSJnIiB4MT0iMCIgeTE9IjAiIHgyPSIxIiB5Mj0iMSI+PHN0b3Agb2Zmc2V0PSIwIiBzdG9wLWNvbG9yPSIjZjQwM2ZmIi8+PHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjMDg4YmZmIi8+PC9saW5lYXJHcmFkaWVudD48L2RlZnM+PHJlY3Qgd2lkdGg9IjEyMDAiIGhlaWdodD0iNDAiIGZpbGw9InVybCgjZykiLz48L3N2Zz4=)]
-
-
-
-
-
-
-
+[![My DevWorks](https://img.shields.io/badge/🐙_MyDevWorks-6A00FF?style=for-the-badge&logo=github&logoColor=white&labelColor=5200CC)](https://github.com/3bdallahh0/-My-DevWorks)
 
 
 
