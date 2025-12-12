@@ -40,6 +40,10 @@ Always eager to explore new technologies, improve skills, and create software th
 [![My DevWorks](https://img.shields.io/badge/🐙_MyDevWorks-111111?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/3bdallahh0/-My-DevWorks)
 
 
+[![My DevWorks](https://img.shields.io/badge/🐙_MyDevWorks-1F6FEB?style=for-the-badge&logo=github&logoColor=white&labelColor=1A56C3)](https://github.com/3bdallahh0/-My-DevWorks)
+
+
+
 ## Languages
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)  
