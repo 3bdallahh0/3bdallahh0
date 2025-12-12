@@ -25,8 +25,19 @@ Experience in the freelance market, dedicated to continuous learning, innovative
 Always eager to explore new technologies, improve skills, and create software that makes a difference.
 
 ## My Projects
-[![My DevWorks](https://img.shields.io/badge/🐙_MyDevWorks-0A84FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0066CC)](https://github.com/3bdallahh0/-My-DevWorks)
+[![My DevWorks](https://img.shields.io/badge/🐙_MyDevWorks-9B5CFF?style=for-the-badge&logo=github&logoColor=white&labelColor=7E3FEA)](https://github.com/3bdallahh0/-My-DevWorks)
 
+
+[![My DevWorks](https://img.shields.io/badge/🐙_MyDevWorks-00C8FF?style=for-the-badge&logo=github&logoColor=white&labelColor=009FCC)](https://github.com/3bdallahh0/-My-DevWorks)
+
+
+[![My DevWorks](https://img.shields.io/badge/🐙_MyDevWorks-FF7A3D?style=for-the-badge&logo=github&logoColor=white&labelColor=CC5F2F)](https://github.com/3bdallahh0/-My-DevWorks)
+
+
+[![My DevWorks](https://img.shields.io/badge/🐙_MyDevWorks-00A884?style=for-the-badge&logo=github&logoColor=white&labelColor=007A63)](https://github.com/3bdallahh0/-My-DevWorks)
+
+
+[![My DevWorks](https://img.shields.io/badge/🐙_MyDevWorks-111111?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/3bdallahh0/-My-DevWorks)
 
 
 ## Languages
