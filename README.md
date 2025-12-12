@@ -26,27 +26,17 @@ Always eager to explore new technologies, improve skills, and create software th
 
 ## My Projects
 
-
-[![My DevWorks](https://img.shields.io/badge/🐙_MyDevWorks-00A884?style=for-the-badge&logo=github&logoColor=white&labelColor=007A63)](https://github.com/3bdallahh0/-My-DevWorks)
-
-
-[![My DevWorks](https://img.shields.io/badge/🐙_MyDevWorks-C6A667?style=for-the-badge&logo=github&logoColor=white&labelColor=8F784C)](https://github.com/3bdallahh0/-My-DevWorks)
-
-
-[![My DevWorks](https://img.shields.io/badge/🐙_MyDevWorks-1F3A93?style=for-the-badge&logo=github&logoColor=white&labelColor=162D6A)](https://github.com/3bdallahh0/-My-DevWorks)
-
-
-[![My DevWorks](https://img.shields.io/badge/🐙_MyDevWorks-2C2C2C?style=for-the-badge&logo=github&logoColor=white&labelColor=1A1A1A)](https://github.com/3bdallahh0/-My-DevWorks)
-
-
 [![My DevWorks](https://img.shields.io/badge/🐙_MyDevWorks-3A5F7D?style=for-the-badge&logo=github&logoColor=white&labelColor=2A455A)](https://github.com/3bdallahh0/-My-DevWorks)
 
 
 
 ## Languages
 
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)  
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
 
 ## Framework & Tools
 
